@@ -1,5 +1,4 @@
 # Advent of Code Day 4: Camp Cleanup
-# 
 
 overlapped_assignments = 0
 with open("day4.txt", "r") as assignment_data:
